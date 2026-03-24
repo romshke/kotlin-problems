@@ -20,6 +20,8 @@
 /Topics/Values and variables/Assignments/out/production/classes/
 
 *.yaml
+*.class
+*.kotlin_module
 /Topics/**/*.html
 
 /find-and-gitignore.ps1
@@ -38,3 +40,4 @@
 /Topics/Standard output/Standard output/src/Main.kt
 /Topics/Type conversion/Type conversion/src/Main.kt
 /Topics/Values and variables/Values and variables/src/Main.kt
+/Topics/Boolean type and operations. True and false/Boolean type and operations. True and false/src/Main.kt
