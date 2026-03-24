@@ -22,3 +22,19 @@
 *.yaml
 /Topics/**/*.html
 
+/find-and-gitignore.ps1
+
+/Topics/Comments/Comments/src/Main.kt
+/Topics/Comparing numbers. Relational operators/Comparing numbers. Relational operators/src/Main.kt
+/Topics/Constants and val variables/Constants and val variables/src/Main.kt
+/Topics/Data types/Data types/src/Main.kt
+/Topics/Increment and decrement/Increment and decrement/src/Main.kt
+/Topics/Integers in action/Integers in action/src/Main.kt
+/Topics/Invoking functions/Invoking functions/src/Main.kt
+/Topics/Properties of basic types/Properties of basic types/src/Main.kt
+/Topics/Ranges/Ranges/src/Main.kt
+/Topics/Reading data with readln/Reading data with readln/src/Main.kt
+/Topics/Standard input with Java Scanner/Standard input with Java Scanner/src/Main.kt
+/Topics/Standard output/Standard output/src/Main.kt
+/Topics/Type conversion/Type conversion/src/Main.kt
+/Topics/Values and variables/Values and variables/src/Main.kt
