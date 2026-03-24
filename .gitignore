@@ -1,0 +1,24 @@
+# Project exclude paths
+/.gradle/
+/.idea/
+/build/
+/Topics/Integers in action/Desks/out/
+/Topics/Integers in action/Desks/out/production/classes/
+/Topics/Integers in action/Time format/out/
+/Topics/Integers in action/Time format/out/production/classes/
+/Topics/Properties of basic types/Size, min and max/out/
+/Topics/Properties of basic types/Size, min and max/out/production/classes/
+/Topics/Ranges/Between two numbers/out/
+/Topics/Ranges/Between two numbers/out/production/classes/
+/Topics/Reading data with readln/Reversed output/out/
+/Topics/Reading data with readln/Reversed output/out/production/classes/
+/Topics/Standard output/Tic-Tac-Toe/out/
+/Topics/Standard output/Tic-Tac-Toe/out/production/classes/
+/Topics/Type conversion/Sum of Longs/out/
+/Topics/Type conversion/Sum of Longs/out/production/classes/
+/Topics/Values and variables/Assignments/out/
+/Topics/Values and variables/Assignments/out/production/classes/
+
+*.yaml
+/Topics/**/*.html
+
