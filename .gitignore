@@ -2,42 +2,39 @@
 /.gradle/
 /.idea/
 /build/
-/Topics/Integers in action/Desks/out/
-/Topics/Integers in action/Desks/out/production/classes/
-/Topics/Integers in action/Time format/out/
-/Topics/Integers in action/Time format/out/production/classes/
-/Topics/Properties of basic types/Size, min and max/out/
-/Topics/Properties of basic types/Size, min and max/out/production/classes/
-/Topics/Ranges/Between two numbers/out/
-/Topics/Ranges/Between two numbers/out/production/classes/
-/Topics/Reading data with readln/Reversed output/out/
-/Topics/Reading data with readln/Reversed output/out/production/classes/
-/Topics/Standard output/Tic-Tac-Toe/out/
-/Topics/Standard output/Tic-Tac-Toe/out/production/classes/
-/Topics/Type conversion/Sum of Longs/out/
-/Topics/Type conversion/Sum of Longs/out/production/classes/
-/Topics/Values and variables/Assignments/out/
-/Topics/Values and variables/Assignments/out/production/classes/
 
 *.yaml
 *.class
 *.kotlin_module
-/Topics/**/*.html
+Topics/**/*.html
 
-/find-and-gitignore.ps1
+find-and-gitignore.ps1
 
-/Topics/Comments/Comments/src/Main.kt
-/Topics/Comparing numbers. Relational operators/Comparing numbers. Relational operators/src/Main.kt
-/Topics/Constants and val variables/Constants and val variables/src/Main.kt
-/Topics/Data types/Data types/src/Main.kt
-/Topics/Increment and decrement/Increment and decrement/src/Main.kt
-/Topics/Integers in action/Integers in action/src/Main.kt
-/Topics/Invoking functions/Invoking functions/src/Main.kt
-/Topics/Properties of basic types/Properties of basic types/src/Main.kt
-/Topics/Ranges/Ranges/src/Main.kt
-/Topics/Reading data with readln/Reading data with readln/src/Main.kt
-/Topics/Standard input with Java Scanner/Standard input with Java Scanner/src/Main.kt
-/Topics/Standard output/Standard output/src/Main.kt
-/Topics/Type conversion/Type conversion/src/Main.kt
-/Topics/Values and variables/Values and variables/src/Main.kt
-/Topics/Boolean type and operations. True and false/Boolean type and operations. True and false/src/Main.kt
+**/out
+
+Topics/Avoiding NPEs. Null safety/Avoiding NPEs. Null safety/
+Topics/Boolean type and operations. True and false/Boolean type and operations. True and false/
+Topics/Characters. Char type/Characters. Char type/
+Topics/Comments/Comments/
+Topics/Comparing numbers. Relational operators/Comparing numbers. Relational operators/
+Topics/Constants and val variables/Constants and val variables/
+Topics/Data types/Data types/
+Topics/Declaring functions/Declaring functions/
+Topics/Exception/Exception/
+Topics/For loop and ranges/For loop and ranges/
+Topics/Hierarchy of exceptions/Hierarchy of exceptions/
+Topics/Increment and decrement/Increment and decrement/
+Topics/Integers in action/Integers in action/
+Topics/Invoking functions/Invoking functions/
+Topics/Nullable and non-nullable types/Nullable and non-nullable types/
+Topics/Properties of basic types/Properties of basic types/
+Topics/Ranges/Ranges/
+Topics/Reading data with readln/Reading data with readln/
+Topics/Standard input with Java Scanner/Standard input with Java Scanner/
+Topics/Standard output/Standard output/
+Topics/String basics/String basics/
+Topics/String templates/String templates/
+Topics/Taming exceptions/Taming exceptions/
+Topics/Type conversion/Type conversion/
+Topics/Values and variables/Values and variables/
+Topics/Working with strings/Working with strings/
